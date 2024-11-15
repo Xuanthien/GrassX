@@ -15,7 +15,7 @@
 3. Go to Console.
 4. Type: localStorage.getItem('userId') and press Enter.
 5. Replace 'your_user_id_here' in run.py with your UserID.
-https://github.com/officialputuid/GrassX/blob/c496db2fe41c24005ac7dede991a1a6fe0c4a1a4/run.py#L69
+https://github.com/Xuanthien/GrassX/blob/main/run.py#L69
 
 ### Referral Link (optional)
 - https://app.getgrass.io/register/?referralCode=0oZ5gx00FywA8zg
